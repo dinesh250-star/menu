@@ -1,0 +1,22 @@
+.full {
+  margin: 3rem auto;
+  border-radius: 16px 0 16px 0;
+  background-color: #313131;
+  padding: 1rem;
+  max-width: 60rem;
+  border: 1px solid white;
+  color: #1ad1b9;
+}
+.btn {
+  padding: 20px;
+  border-radius: 16px 0 16px 0;
+  color: #1ad1b9;
+  background-color: #313131;
+  border: 1px solid #1ad1b9;
+  font-size: 1rem;
+}
+.btn:hover,
+.btn:active {
+  color: white;
+  border: 1px solid white;
+}
